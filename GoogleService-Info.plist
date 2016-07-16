@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>561711525701-0bfacl2a5gsgt7dhlqq0vjc24ajtl6p0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.561711525701-0bfacl2a5gsgt7dhlqq0vjc24ajtl6p0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCrhpTantIlkWTiF7NpHEgXMULgRFn0JgM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>561711525701</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.feather.runwithme</string>
+	<key>PROJECT_ID</key>
+	<string>runwithme-8ddb7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>runwithme-8ddb7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:561711525701:ios:ae4b0b95d8163226</string>
+	<key>DATABASE_URL</key>
+	<string>https://runwithme-8ddb7.firebaseio.com</string>
+</dict>
+</plist>

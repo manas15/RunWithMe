@@ -1,0 +1,6 @@
+framework module Pods_runwithme {
+  umbrella header "Pods-runwithme-umbrella.h"
+
+  export *
+  module * { export * }
+}
